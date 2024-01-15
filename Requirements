@@ -1,0 +1,19 @@
+Functionele eisen
+1. Als medewerker wil ik in het systeem zien hoeveel producten er gekocht zijn
+2. Als medewerker wil ik in het systeem zien hoeveel producten er verkocht zijn
+3. Als medewerker wil ik in het systeem zien de prijzen van producten die gekocht en verkocht zijn
+4. Als medewerker wil ik zien hoeveel producten er en per soort op voorraad zijn
+6. Als medewerker wil ik zien waar de producten in de magazijn staan
+7. Als medewerker wil ik zien hoeveel er producten nog binnenkomen
+8. Als admin wil ik rechten kunnen zetten voor admins en medewerkers per afdeling
+9. Als admin wil ik persoonelsleden gegevens kunnen opvragen/aanpassen
+10. Als medewerker wil ik rapporten kunnen uitdraaien van de aantalen en prijzen onder punten 1,2,3,4,5 en 6
+11. Als admin wil ik rapporten kunnen uitdraaien van de persoonelsleden
+
+
+Niet-Functionele eisen
+1. Pas na 15 minuten idle time de gebruiker automatisch laten inloggen
+2. Applicatie bij het inloggen onthoudt de plek van de laatste sessie
+3. Applicatie kan 50 studenten tegelijkertijd aan zonder snelheidsverlies
+4. Er is documentatie beschikbaar die beschrijft hoe ontwikkelaars data van onze server kunnen opvragen via de API (ondersteuning)
+5. Het systeem moet een DDOS-aanval kunnen afweren
