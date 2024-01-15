@@ -1,4 +1,4 @@
-Funtionele eisen
+Functionele eisen
 1. Als medewerker wil ik in het systeem zien hoeveel producten er gekocht zijn
 2. Als medewerker wil ik in het systeem zien hoeveel producten er verkocht zijn
 3. Als medewerker wil ik in het systeem zien de prijzen van producten die gekocht en verkocht zijn
@@ -11,7 +11,7 @@ Funtionele eisen
 11. Als admin wil ik rapporten kunnen uitdraaien van de persoonelsleden
 
 
-Niet-Funtionele eisen
+Niet-Functionele eisen
 1. Pas na 15 minuten idle time de gebruiker automatisch laten inloggen
 2. Applicatie bij het inloggen onthoudt de plek van de laatste sessie
 3. Applicatie kan 50 studenten tegelijkertijd aan zonder snelheidsverlies
